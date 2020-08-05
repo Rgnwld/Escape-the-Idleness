@@ -1,5 +1,5 @@
 ## Escape-the-Idleness
-Um jogo, ainda em desenvolvimento, construido na UNITY ENGINE para celulares androids. <br/><br/>
+Um jogo, ainda em desenvolvimento, construido na UNITY ENGINE para celulares androids. <br/>
 ![Escape from Idleness game](https://media2.giphy.com/media/hRxhnKRuLh5LwZn3Qr/giphy.gif)
 <br/>
 Está sendo desenvolvido utilizando o Asset [Dunjo](https://arks.itch.io/dungeon-platform-tileset) do artista [Arks](https://itch.io/profile/arks),
