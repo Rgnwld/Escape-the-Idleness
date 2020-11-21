@@ -4,4 +4,8 @@ Um jogo, ainda em desenvolvimento, construido na UNITY ENGINE para celulares and
 [Download!](https://drive.google.com/file/d/1qxCiH7dxp4yUqzJxv08sk-2-ZT_2oTzg/view?usp=sharing)<br/><br/>
 Está sendo desenvolvido utilizando o Asset [Dunjo](https://arks.itch.io/dungeon-platform-tileset) do artista [Arks](https://itch.io/profile/arks),
 além de efeitos sonoros utilizando o programa [SFXR](http://www.drpetter.se/project_sfxr.html) de DrPetter. <br/>
-Conta com Anuncios (Unity Ads) como forma de monetização.
+Conta com Anuncios (Unity Ads) como forma de monetização.<br/><br/>
+
+```diff 
+- Ainda não publicado na PlayStore.
+```
