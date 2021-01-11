@@ -7,5 +7,5 @@ além de efeitos sonoros utilizando o programa [SFXR](http://www.drpetter.se/pro
 Conta com Anuncios (Unity Ads) como forma de monetização.<br/><br/>
 
 ```diff 
-- Ainda não publicado na PlayStore.
+- Descontinuado
 ```
